@@ -1,0 +1,15 @@
+C:\Users\Paulo\source\repos\Pi\Pi\bin\Debug\net6.0\Pi.exe
+C:\Users\Paulo\source\repos\Pi\Pi\bin\Debug\net6.0\Pi.deps.json
+C:\Users\Paulo\source\repos\Pi\Pi\bin\Debug\net6.0\Pi.runtimeconfig.json
+C:\Users\Paulo\source\repos\Pi\Pi\bin\Debug\net6.0\Pi.dll
+C:\Users\Paulo\source\repos\Pi\Pi\bin\Debug\net6.0\Pi.pdb
+C:\Users\Paulo\source\repos\Pi\Pi\obj\Debug\net6.0\Pi.csproj.AssemblyReference.cache
+C:\Users\Paulo\source\repos\Pi\Pi\obj\Debug\net6.0\Pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\Pi\Pi\obj\Debug\net6.0\Pi.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Pi\Pi\obj\Debug\net6.0\Pi.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Pi\Pi\obj\Debug\net6.0\Pi.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Pi\Pi\obj\Debug\net6.0\Pi.dll
+C:\Users\Paulo\source\repos\Pi\Pi\obj\Debug\net6.0\refint\Pi.dll
+C:\Users\Paulo\source\repos\Pi\Pi\obj\Debug\net6.0\Pi.pdb
+C:\Users\Paulo\source\repos\Pi\Pi\obj\Debug\net6.0\Pi.genruntimeconfig.cache
+C:\Users\Paulo\source\repos\Pi\Pi\obj\Debug\net6.0\ref\Pi.dll
